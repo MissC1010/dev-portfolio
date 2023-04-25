@@ -1,1 +1,1 @@
-to start type npm run dev
+to start type npm run start
